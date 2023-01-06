@@ -1,0 +1,1 @@
+{"Id": "nwkjcbpkmdbgsexi-zshklgyx-czub-rhyq-fxqp-bejjtupqfbrc-qzjzlx", "Timestamp": "2022-09-29T20:37:29", "Region": "us-east-1", "Source": "admin@localstack.com", "Destination": {"ToAddresses": ["hp.cordeiro@hotmail.com"]}, "Subject": "SNS-Subscriber-Endpoint", "Body": {"text_part": "O resultado do seu exame est\u00e1 pronto", "html_part": null}}

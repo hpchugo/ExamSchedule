@@ -1,0 +1,1 @@
+{"Id": "ointoppqwjccolta-xdfabyci-odye-jllf-nkzd-qtqpukflpmcc-wjkdea", "Timestamp": "2022-09-29T20:37:29", "Region": "us-east-1", "Source": "admin@localstack.com", "Destination": {"ToAddresses": ["principe_dos_sayajins@dbz.com1"]}, "Subject": "SNS-Subscriber-Endpoint", "Body": {"text_part": "O resultado do seu exame est\u00e1 pronto", "html_part": null}}

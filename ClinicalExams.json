@@ -1,0 +1,16 @@
+{
+  "TableName": "ClinicalExams",
+  "KeySchema": [
+    {
+      "KeyType": "HASH",
+      "AttributeName": "examId"
+    }
+  ],
+  "AttributeDefinitions": [
+    {
+      "AttributeName": "examId",
+      "AttributeType": "S"
+    }
+  ],
+  "BillingMode": "PAY_PER_REQUEST"
+}

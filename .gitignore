@@ -1,0 +1,3 @@
+# Project exclude paths
+/exam/target/
+/patient/target/
